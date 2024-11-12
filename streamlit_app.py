@@ -69,7 +69,7 @@ st.markdown("<h3 style='text-align: center; margin-bottom: 3rem;'>Women's AI All
 
 # Display default banner image
 default_image_url = "https://images.pexels.com/photos/6400345/pexels-photo-6400345.jpeg"
-st.image(default_image_url, use_column_width=True)
+st.image(default_image_url, use_container_width=True)
 
 # Explanation section
 st.markdown("## About Athena AI App")
